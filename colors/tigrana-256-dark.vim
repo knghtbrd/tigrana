@@ -19,8 +19,8 @@ hi Normal ctermfg=249 ctermbg=234 cterm=none guifg=#B2B2B2 guibg=#1c1c1c gui=non
 hi Comment ctermfg=244 cterm=none guifg=#808080 gui=none
 
 " Constant
-hi Constant ctermfg=186 cterm=none guifg=#D7D787 gui=none
-hi String ctermfg=187 cterm=none guifg=#D7D7AF gui=none
+hi Constant ctermfg=229 cterm=none guifg=#FFFFAF gui=none
+hi link String Constant
 hi Character ctermfg=187 cterm=none guifg=#D7D7AF gui=none
 hi Number ctermfg=180 cterm=none guifg=#D7AF87 gui=none
 hi Boolean ctermfg=187 cterm=none guifg=#D7D7AF gui=none
