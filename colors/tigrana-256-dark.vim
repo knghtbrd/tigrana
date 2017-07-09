@@ -1,5 +1,5 @@
 " Tigrana 256 Dark
-"  Author: baskerville <nihilhill@gmail.com>
+"  Author: Joseph Carter
 "     URL: https://github.com/iKarith/tigrana
 " Created: 2017
 " Version: 0.3
