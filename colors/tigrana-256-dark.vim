@@ -62,7 +62,7 @@ hi Debug ctermfg=174 cterm=none guifg=#D78787 gui=none
 hi Underlined ctermfg=249 cterm=underline guifg=#B2B2B2 gui=underline
 hi Ignore ctermfg=235 cterm=none guifg=#262626 gui=none
 hi Error ctermfg=231 ctermbg=167 cterm=none guifg=#FFFFFF guibg=#D75F5F gui=none
-hi Todo ctermfg=244 cterm=none guifg=#808080 gui=none
+hi Todo ctermfg=16 cterm=none guifg=#000000 ctermbg=184 guibg=#dfdf00 gui=none
 
 " Window
 hi StatusLine ctermfg=231 ctermbg=237 cterm=none guifg=#B2B2B2 guibg=#FFFFFF gui=none
