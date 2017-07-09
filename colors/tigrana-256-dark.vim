@@ -114,10 +114,10 @@ hi DiffText ctermfg=16 ctermbg=211 cterm=bold guifg=#000000 guibg=#FF87AF gui=bo
 hi DiffDelete ctermfg=16 ctermbg=249 cterm=none guifg=#000000 guibg=#B2B2B2 gui=none
 
 " Spell
-hi SpellBad ctermfg=210 cterm=underline guifg=#FF8787 gui=underline
-hi SpellCap ctermfg=174 cterm=underline guifg=#D78787 gui=underline
-hi SpellRare ctermfg=181 cterm=underline guifg=#D7AFAF gui=underline
-hi SpellLocal ctermfg=180 cterm=underline guifg=#D7AF87 gui=underline
+hi SpellBad ctermfg=217 ctermbg=bg cterm=underline guifg=#FFAFAF guibg=bg gui=underline
+hi SpellCap ctermfg=189 ctermbg=bg cterm=underline guifg=#DFDFFF guibg=bg gui=underline
+hi SpellRare ctermfg=168 ctermbg=bg cterm=underline guifg=#D75F87 guibg=bg gui=underline
+hi SpellLocal ctermfg=98 ctermbg=bg cterm=underline guifg=#875FD7 guibg=bg gui=underline
 
 " Misc
 hi SpecialKey ctermfg=114 cterm=none guifg=#87D787 gui=none
