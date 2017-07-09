@@ -15,7 +15,7 @@ endif
 let g:colors_name="tigrana-256-dark"
 
 " Main
-hi Normal ctermfg=249 ctermbg=234 cterm=none guifg=#B2B2B2 guibg=#1c1c1c gui=none
+hi Normal ctermfg=252 ctermbg=234 cterm=none guifg=#D0D0D0 guibg=#1c1c1c gui=none
 hi Comment ctermfg=244 cterm=none guifg=#808080 gui=none
 
 " Constant
