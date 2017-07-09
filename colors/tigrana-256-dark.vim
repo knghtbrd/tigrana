@@ -92,10 +92,10 @@ hi Question ctermfg=38 cterm=none guifg=#00AFD7 gui=none
 
 " Mark
 hi Folded ctermfg=244 cterm=none guifg=#808080 gui=none
-hi FoldColumn ctermfg=79 ctermbg=237 cterm=none guifg=#5FD7AF guibg=#3A3A3A gui=none
-hi SignColumn ctermfg=184 ctermbg=237 cterm=none guifg=#D7D700 guibg=#3A3A3A gui=none
-hi ColorColumn ctermbg=237 cterm=none guibg=#3A3A3A gui=none
-hi LineNr ctermfg=244 ctermbg=237 cterm=none guifg=#808080 guibg=#3A3A3A gui=none
+hi FoldColumn ctermfg=79 ctermbg=233 cterm=none guifg=#5FD7AF guibg=#121212 gui=none
+hi SignColumn ctermfg=184 ctermbg=233 cterm=none guifg=#D7D700 guibg=#121212 gui=none
+hi ColorColumn ctermbg=233 cterm=none guibg=#121212 gui=none
+hi LineNr ctermfg=244 ctermbg=233 cterm=none guifg=#808080 guibg=#121212 gui=none
 hi MatchParen ctermfg=16 ctermbg=215 cterm=none guifg=#000000 guibg=#FFAF5F gui=none
 
 " Cursor
