@@ -1,8 +1,11 @@
-" Bubblegum 256 Light
+" Tigrana 256 Light
 "  Author: baskerville <nihilhill@gmail.com>
-"     URL: github.com/baskerville/bubblegum
-" Created: 2011
+"     URL: https://github.com/iKarith/tigrana
+" Created: 2017
 " Version: 0.3
+"
+" Based on https://github.com/baskerville/bubblegum
+" FIXME: This is literally just bubblegum-256-light until this gets removed
 
 hi clear
 
@@ -10,7 +13,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let g:colors_name="bubblegum-256-light"
+let g:colors_name="tigrana-256-light"
 
 
 " Main
