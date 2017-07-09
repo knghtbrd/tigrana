@@ -65,7 +65,7 @@ hi Error ctermfg=231 ctermbg=167 cterm=none guifg=#FFFFFF guibg=#D75F5F gui=none
 hi Todo ctermfg=244 cterm=none guifg=#808080 gui=none
 
 " Window
-hi StatusLine ctermfg=249 ctermbg=237 cterm=none guifg=#B2B2B2 guibg=#3A3A3A gui=none
+hi StatusLine ctermfg=231 ctermbg=237 cterm=none guifg=#B2B2B2 guibg=#FFFFFF gui=none
 hi StatusLineNC ctermfg=244 ctermbg=237 cterm=none guifg=#808080 guibg=#3A3A3A gui=none
 hi TabLine ctermfg=249 ctermbg=237 cterm=none guifg=#B2B2B2 guibg=#3A3A3A gui=none
 hi TabLineSel ctermfg=253 ctermbg=238 cterm=none guifg=#DADADA guibg=#444444 gui=none
