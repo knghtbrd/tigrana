@@ -2,7 +2,7 @@
 "  Author: Joseph Carter
 "     URL: https://gitlab.com/iKarith/tigrana
 " Created: 2017
-" Version: 0.4
+" Version: 0.5
 "
 " Based on https://github.com/baskerville/bubblegum
 
@@ -161,4 +161,4 @@ hi markdownCodeBlock ctermfg=244 cterm=none guifg=#808080 gui=none
 hi markdownItalic ctermfg=252 cterm=none guifg=#D0D0D0 gui=none
 
 " Trailing whitespace (vim-scripts/ShowTrailingWhitespace)
-hi ShowTrailingWhitespace ctermbg=240 guibg=#585858
+hi ShowTrailingWhitespace ctermbg=241 guibg=#626262

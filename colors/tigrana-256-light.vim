@@ -2,7 +2,7 @@
 "  Author: Joseph Carter
 "     URL: https://gitlab.com/iKarith/tigrana
 " Created: 2017
-" Version: 0.4
+" Version: 0.5
 "
 " Based on https://github.com/baskerville/bubblegum
 
